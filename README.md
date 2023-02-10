@@ -1,4 +1,4 @@
-![banner](https://static.vecteezy.com/ti/vetor-gratis/p1/1410877-banner-de-programacao-e-codificacao-futurista-vetor.jpg)
+![banner](https://media.licdn.com/dms/image/D4E16AQE_JfLyYpxfnA/profile-displaybackgroundimage-shrink_350_1400/0/1667270106073?e=1681344000&v=beta&t=vo822Qw8hxgEJYm-hT9WkKnN-812UIMfQWsQnt-JiSg)
 
 <h1 align="center">Olá!, me chamo Guilherme da Rosa</h1>
 <h3 align="center">Por aqui, você encontra todos os meus projetos favoritos!</h3>
